@@ -13,9 +13,9 @@ There are a few variants of working with the models possible and here we will:
 Please clone this repository and install OpenVINO Optimum python package and it's dependencies:
 
 ```bash
-git clone https://github.com/mzegla/openvino_contrib.git
+git clone https://github.com/openvinotoolkit/openvino_contrib.git
 cd openvino_contrib/modules/optimum/
-git checkout optimum-adapters
+git checkout aiw-release
 pip install --upgrade pip
 pip install .
 pip install torch==1.9.1
